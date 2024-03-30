@@ -1,7 +1,7 @@
 # MXene-database
 The AFT framework and MXene database
 
-# Illustration:
+# Manual
 All structures and Efa data are contained in the .rar file
 
 Folder "1x1basemodel" and "2x2basemodel" are the well-trained models for predicting the data sets (.json) in the .rar file.
@@ -31,8 +31,10 @@ print("- R2: ",R2)
 ```
 
 
-```
+# Source
 Song, Z.H., Niu, X.B., Chen, H.Y. 
+
 Leveraging all-fixed transfer framework to predict interpretable
+
 formation energy of MXene with hybrid terminals.
-```
+
