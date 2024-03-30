@@ -1,9 +1,12 @@
 # MXene-database
-# The AFT framework and MXene database
+The AFT framework and MXene database
 
-# All structures and Efa data are contained in the .rar file
-# Folder "1x1basemodel" and "2x2basemodel" are the well-trained models for predicting the data sets (.json) in the .rar file.
-# Folder "MXene1X1*" to "MXene4X4*" includes all the structure mentioned in our paper.
+# Illustration:
+All structures and Efa data are contained in the .rar file
+
+Folder "1x1basemodel" and "2x2basemodel" are the well-trained models for predicting the data sets (.json) in the .rar file.
+
+Folder "MXene1X1*" to "MXene4X4*" includes all the structure mentioned in our paper.
 
 # Here is a simple example for testing
 ```
