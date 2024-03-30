@@ -6,7 +6,7 @@
 # Folder "MXene1X1*" to "MXene4X4*" includes all the structure mentioned in our paper.
 
 # Here is a simple example for testing
-"""
+```
 from pymatgen.core import Structure
 from maml.models import AtomSets
 from maml.describers import MEGNetSite
@@ -25,7 +25,7 @@ features = describer.transform(struct)
 valid_targets = model_test._predict(features)
 R2 = r2_score(target, valid_targets)
 print("- R2: ",R2)
-"""
+```
 
 
 ```
